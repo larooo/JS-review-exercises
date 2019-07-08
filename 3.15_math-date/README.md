@@ -25,7 +25,7 @@ Examples:
 
 **Bonus** 
 #### Random Name 
-Create a function for our webdev class 13a that returns a random student's name. 
+Create a function for our webdev class 13b that returns a random student's name. 
 
 ### Date Object
 
